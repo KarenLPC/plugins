@@ -1,0 +1,1 @@
+!function(){"use strict";tinymce.PluginManager.add("video-plugin",function(n,i){n.ui.registry.addButton("video-plugin",{text:"video",onAction:function(){n.setContent("<p>video</p>")}})})}();
